@@ -12,4 +12,4 @@
 # <u>Category One:</u> Software Engineering & Design (CS-320 Appointment JUnit Testing)
   For the Appointment and Appointment Service code in this artifact, I originally handled testing in the most basic way required for the course. Each testing instance covered one scenario. To enhance it, I took separate tests for the same type of error and combined them into a single parameterized test block. This method is far more efficient both in how the tests work, but also how much code there is to read through. I also added some additional comments to enhance a viewers understaning of the code.
 
-[![Build Status](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/CClaudio1990/CClaudio1990.github.io.git)/actions)
+[![View Artifact 1](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/CClaudio1990/CClaudio1990.github.io.git)/actions)
