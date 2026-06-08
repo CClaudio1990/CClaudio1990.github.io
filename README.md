@@ -1,6 +1,6 @@
 <h1 align="center">CClaudio1990.github.io</h1>
 
-<h1 align="center">Welcome to my ePortfolio!</h1>
+<h2 align="center">Welcome to my ePortfolio!</h2>
 
 # Introduction
 
