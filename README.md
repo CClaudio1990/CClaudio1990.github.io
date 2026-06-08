@@ -1,6 +1,6 @@
-# CClaudio1990.github.io
+<h1 align="center">CClaudio1990.github.io</h1>
 
-                                                                                            <h1>Welcome to my ePortfolio</h1>
+<h1 align="center">Welcome to my ePortfolio!</h1>
 
 # Introduction
 
@@ -17,6 +17,8 @@
   * Software Engineering & Design
   * Algorithms & Data Structures
   * Databases
+
+<h1 align="center">Artifacts</h1>
 
 # <u>Category One:</u> Software Engineering & Design (CS-320 Appointment JUnit Testing)
 For the Appointment and Appointment Service code in this artifact, I originally handled testing in the most basic way required for the course. Each testing instance covered one scenario. To enhance it, I took separate tests for the same type of error and combined them into a single parameterized test block. This method is far more efficient both in how the tests work, but also how much code there is to read through. I also added some additional comments to enhance a viewers understaning of the code.
