@@ -30,7 +30,7 @@ Pending Description...
 
 **Repository Link:** [![View Artifact 2](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%202)]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/CClaudio1990/CClaudio1990.github.io.git)/actions)
 
-# <u>Category Three:</u> Databases (CS-340 Grazioso Salvare Rescue Animal Serach)
+# <u>Category Three:</u> Databases (CS-340 Grazioso Salvare Rescue Animal Search)
 Pending Description...
 
 **Repository Link:** [![View Artifact 3](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%203/Project%202%20Claudio)]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/CClaudio1990/CClaudio1990.github.io.git)/actions)
