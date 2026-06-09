@@ -29,7 +29,7 @@ My time at SNHU has been one of immense growth. I had only just tranbsistioned f
 The artifact is an appointment tracking system that contains the ID, name, phone number and date for the appointment object. For the Appointment and Appointment Service code in this artifact, I originally handled testing in the most basic way required for the course. Each testing instance covered one scenario. To enhance it, I took separate tests for the same type of error and combined them into a single parameterized test block. This method is far more efficient both in how the tests work, but also how much code there is to read through. I also added some additional comments to enhance a viewers understaning of the code.
 
 **Refactored Version:**
-![Screenshot From 2026-06-09 10-09-11.png](Cat1New.png)
+<img src="assets/Cat1New.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
 
 **Repository Link:** [![View Artifact 1](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/CClaudio1990/CClaudio1990.github.io.git)/actions)
 
