@@ -45,4 +45,8 @@ Pending Description...
 # <u>Category Three:</u> Databases (CS-340 Grazioso Salvare Rescue Animal Search)
 Pending Description...
 
+**Refactored Version:**
+<img src="assets/Cat3New1.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
+<img src="assets/Cat3New2.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
+
 [![View Artifact 3](https://img.shields.io/badge/View_Artifact_3-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%203/Project%202%20Claudio)
