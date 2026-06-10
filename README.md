@@ -31,14 +31,14 @@ The artifact is an appointment tracking system that contains the ID, name, phone
 **Refactored Version:**
 <img src="assets/Cat1New.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
 
-**Repository Link:** [![View Artifact 1](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/CClaudio1990/CClaudio1990.github.io.git)/actions)
+**Repository Link:** [![View Artifact 1](https://img.shields.io/badge/View_Artifact_1-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)
 
 # <u>Category Two:</u> Algorithms & Data Structures (CS-300 Binary Search Tree Course Catalog)
 Pending Description...
 
-**Repository Link:** [![View Artifact 2](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%202)]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/CClaudio1990/CClaudio1990.github.io.git)/actions)
+**Repository Link:** [![View Artifact 2](https://img.shields.io/badge/View_Artifact_2-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%202)
 
 # <u>Category Three:</u> Databases (CS-340 Grazioso Salvare Rescue Animal Search)
 Pending Description...
 
-**Repository Link:** [![View Artifact 3](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%203/Project%202%20Claudio)]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/CClaudio1990/CClaudio1990.github.io.git)/actions)
+**Repository Link:** [![View Artifact 3](https://img.shields.io/badge/View_Artifact_3-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%203/Project%202%20Claudio)
