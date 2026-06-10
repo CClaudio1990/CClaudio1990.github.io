@@ -3,10 +3,10 @@
 <h2 align="center">Welcome to my ePortfolio!</h2>
 
 # Introduction
-My name is Christian Claudio and I am a former U.S. Army Infantryman currently working as a Technical Consultant for a major open source software company. i started my journey at SNHU in January 2024 to finish my BS Computer Science after my 10 years of serving in the Army. I plan to keep moving along my current path post degree.
+My name is Christian Claudio and I am a former U.S. Army Infantryman currently working as a Technical Consultant for a major open source software company. I started my journey at SNHU in January 2024 to finish my BS Computer Science after my 10 years of serving in the Army. I plan to keep moving along my current path post degree.
 
-# Educational Relfection
-My time at SNHU has been one of immense growth. I had only just tranbsistioned from the Army a few months prior and started a new job as a Technical Account Manager for an enterprise automation software company so I really was able to enhance my knowledge and skills. I already had some experience using C++, Java and Python but gained so much from this program. I enhanced my knowledge of security and coding best practices and used some of it in my work to great effect. Work and school have had a mutually beneficial relationship for me. Now, I use experience I gain from my current job to augment my work for the CS program. Using all of this new knowledge I have been able to make strong enhancements to artifacts I have created in my time here.
+# Educational Reflection
+My time at SNHU has been one of immense growth. I had only just transistioned from the Army a few months prior and started a new job as a Technical Account Manager for an enterprise automation software company so I really was able to enhance my knowledge and skills. I already had some experience using C++, Java and Python but gained so much from this program. I enhanced my knowledge of security and coding best practices and used some of it in my work to great effect. Work and school have had a mutually beneficial relationship for me. Now, I use experience I gain from my current job to augment my work for the CS program. Using all of this new knowledge I have been able to make strong enhancements to artifacts I have created in my time here.
 
 # Code Review ``</>`` 💻
 
