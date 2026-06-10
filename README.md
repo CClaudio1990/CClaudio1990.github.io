@@ -36,10 +36,6 @@ The artifact is an appointment tracking system that contains the ID, name, phone
 # <u>Category Two:</u> Algorithms & Data Structures (CS-300 Binary Search Tree Course Catalog)
 Pending Description...
 
-**Original Version:**
-<img src="assets/Cat2Old1.png" alt="Original Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
-<img src="assets/Cat2Old2.png" alt="Original Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
-
 **Refactored Version:**
 <img src="assets/Cat2New1.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
 <img src="assets/Cat2New2.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
