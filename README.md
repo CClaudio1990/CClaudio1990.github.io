@@ -26,7 +26,7 @@ My time at SNHU has been one of immense growth. I had only just transistioned fr
 <h1 align="center">Artifacts</h1>
 
 # <u>Category One:</u> Software Engineering & Design (CS-320 Appointment JUnit Testing)
-The artifact is an appointment tracking system that contains the ID, name, phone number and date for the appointment object. For the Appointment and Appointment Service code in this artifact, I originally handled testing in the most basic way required for the course. Each testing instance covered one scenario. To enhance it, I took separate tests for the same type of error and combined them into a single parameterized test block. This method is far more efficient both in how the tests work, but also how much code there is to read through. I also added some additional comments to enhance a viewers understaning of the code.
+This artifact is an appointment tracking system that contains the ID, name, phone number and date for the appointment object. For the Appointment and Appointment Service code in this artifact, I originally handled testing in the most basic way required for the course. Each testing instance covered one scenario. To enhance it, I took separate tests for the same type of error and combined them into a single parameterized test block. This method is far more efficient both in how the tests work, but also how much code there is to read through. I also added some additional comments to enhance a viewers understaning of the code.
 
 **Refactored Version:**
 <img src="assets/Cat1New.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
@@ -34,7 +34,7 @@ The artifact is an appointment tracking system that contains the ID, name, phone
 [![View Artifact 1](https://img.shields.io/badge/View_Artifact_1-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)
 
 # <u>Category Two:</u> Algorithms & Data Structures (CS-300 Binary Search Tree Course Catalog)
-Pending Description...
+This artifact is a course search catalog that originally used a Binary Search Tree data structure. The goal is to create an ordered list that can be displayed and courses can be looked up. I enhanced the artifact by adding a hash map that gives the search function O(1) time complexity. Doing this means that this artifact is a BST/Hash Map hybrid. Given that the dataset for this project is not extremely complex and massive, the difference in search time is negligible. However, I chose to do this to demonstrate how it can have a much more profound impact when dealing with much larger and complex datasets.
 
 **Refactored Version:**
 <img src="assets/Cat2New1.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
