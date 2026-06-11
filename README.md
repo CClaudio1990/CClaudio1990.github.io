@@ -43,7 +43,7 @@ This artifact is a course search catalog that originally used a Binary Search Tr
 [![View Artifact 2](https://img.shields.io/badge/View_Artifact_2-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%202)
 
 # <u>Category Three:</u> Databases (CS-340 Grazioso Salvare Rescue Animal Search)
-Pending Description...
+This artifact represents a refined and optimized iteration of the original dashboard application, focusing heavily on security, feature expansion, and system stability. By decoupling sensitive information, the application now reads database credentials from an external credentials.json file, mitigating hardcoding risks. The user experience is significantly enhanced through the introduction of advanced search capabilities—specifically search_breed and search_name modules—allowing for targeted data querying directly from the interface. Furthermore, critical backend improvements were implemented, including a logic overhaul in the geolocation module to eliminate potential index-out-of-range crashes, and a framework migration from the deprecated jupyter_dash library to the modern, natively supported dash ecosystem.
 
 **Refactored Version:**
 <img src="assets/Cat3New1.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
