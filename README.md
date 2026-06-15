@@ -10,15 +10,15 @@ My time at SNHU has been one of immense growth. I had only just transistioned fr
 
 **Reflections:**
 
-[![Code Review Reflection](https://img.shields.io/badge/Code_Review-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/2-1%20Journal1.pdf)
+[![Code Review Reflection](https://img.shields.io/badge/Code_Review-99E858?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/2-1%20Journal1.pdf)
 
-[![Marketing With ePortfolios](https://img.shields.io/badge/Marketing_ePortfolios-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/3-1%20Journal.pdf)
+[![Marketing With ePortfolios](https://img.shields.io/badge/Marketing_ePortfolios-99E858?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/3-1%20Journal.pdf)
 
-[![Career Planning](https://img.shields.io/badge/Career_Planning-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/4-1%20Journal.pdf)
+[![Career Planning](https://img.shields.io/badge/Career_Planning-99E858?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/4-1%20Journal.pdf)
 
-[![Significant Trends](https://img.shields.io/badge/Significant_Trends-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/5-1%20Journal.pdf)
+[![Significant Trends](https://img.shields.io/badge/Significant_Trends-99E858?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/5-1%20Journal.pdf)
 
-[![Emerging Technology](https://img.shields.io/badge/Emerging_Technology-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/6-1%20Journal1.pdf)
+[![Emerging Technology](https://img.shields.io/badge/Emerging_Technology-99E858?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/6-1%20Journal1.pdf)
 
 # Code Review ``</>`` 💻
 
@@ -43,7 +43,7 @@ This artifact is an appointment tracking system that contains the ID, name, phon
 **Refactored Version:**
 <img src="assets/Cat1New.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
 
-[![View Artifact 1](https://img.shields.io/badge/View_Artifact_1-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)
+[![View Artifact 1](https://img.shields.io/badge/View_Artifact_1-99E858?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)
 
 # <u>Category Two:</u> Algorithms & Data Structures (CS-300 Binary Search Tree Course Catalog)
 This artifact is a course search catalog that originally used a Binary Search Tree data structure. The goal is to create an ordered list that can be displayed and courses can be looked up. I enhanced the artifact by adding a hash map that gives the search function O(1) time complexity. Doing this means that this artifact is a BST/Hash Map hybrid. Given that the dataset for this project is not extremely complex and massive, the difference in search time is negligible. However, I chose to do this to demonstrate how it can have a much more profound impact when dealing with much larger and complex datasets.
@@ -52,7 +52,7 @@ This artifact is a course search catalog that originally used a Binary Search Tr
 <img src="assets/Cat2New1.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
 <img src="assets/Cat2New2.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
 
-[![View Artifact 2](https://img.shields.io/badge/View_Artifact_2-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%202)
+[![View Artifact 2](https://img.shields.io/badge/View_Artifact_2-99E858?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%202)
 
 # <u>Category Three:</u> Databases (CS-340 Grazioso Salvare Rescue Animal Search)
 This artifact represents a refined and optimized iteration of the original dashboard application, focusing heavily on security, feature expansion, and system stability. By decoupling sensitive information, the application now reads database credentials from an external credentials.json file, mitigating hardcoding risks. The user experience is significantly enhanced through the introduction of advanced search capabilities—specifically search_breed and search_name modules—allowing for targeted data querying directly from the interface. Furthermore, critical backend improvements were implemented, including a logic overhaul in the geolocation module to eliminate potential index out of range crashes, and a framework migration from the deprecated jupyter_dash library to the modern, natively supported dash ecosystem.
@@ -61,4 +61,4 @@ This artifact represents a refined and optimized iteration of the original dashb
 <img src="assets/Cat3New1.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
 <img src="assets/Cat3New2.png" alt="Refactored Version" style="max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 15px;">
 
-[![View Artifact 3](https://img.shields.io/badge/View_Artifact_3-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%203/Project%202%20Claudio)
+[![View Artifact 3](https://img.shields.io/badge/View_Artifact_3-99E858?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%203/Project%202%20Claudio)
