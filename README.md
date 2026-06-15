@@ -9,13 +9,13 @@ My name is Christian Claudio and I am a former U.S. Army Infantryman currently w
 My time at SNHU has been one of immense growth. I had only just transistioned from the Army a few months prior and started a new job as a Technical Account Manager for an enterprise automation software company so I really was able to enhance my knowledge and skills. I already had some experience using C++, Java and Python but gained so much from this program. I enhanced my knowledge of security and coding best practices and used some of it in my work to great effect. Work and school have had a mutually beneficial relationship for me. Now, I use experience I gain from my current job to augment my work for the CS program. I have also learned the SDLC and how to better communicate with clients and sytakeholders. Using all of this new knowledge I have been able to make strong enhancements to artifacts I have created in my time here. The artifacts I selected represent the categories mentioned on this page and all build on each other.
 
 **Reflections:**
-[![Code Review Reflection](https://img.shields.io/badge/Code_Review_Reflection-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/2-1%20Journal1.pdf)
+[![Code Review Reflection](https://img.shields.io/badge/Code_Review-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/2-1%20Journal1.pdf)
 
-[![Marketing With ePortfolios](https://img.shields.io/badge/Marketing_With_ePortfolios-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/3-1%20Journal.pdf)
+[![Marketing With ePortfolios](https://img.shields.io/badge/Marketing_ePortfolios-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/3-1%20Journal.pdf)
 
 [![Career Planning](https://img.shields.io/badge/Career_Planning-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/4-1%20Journal.pdf)
 
-[![Significant Trends](https://img.shields.io/Significant_Trends-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/5-1%20Journal.pdf)
+[![Significant Trends](https://img.shields.io/badge/Significant_Trends-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/5-1%20Journal.pdf)
 
 [![Emerging Technology](https://img.shields.io/badge/Emerging_Technology-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/blob/main/Journals/6-1%20Journal1.pdf)
 
