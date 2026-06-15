@@ -8,6 +8,14 @@ My name is Christian Claudio and I am a former U.S. Army Infantryman currently w
 # Professional Self-Assessment
 My time at SNHU has been one of immense growth. I had only just transistioned from the Army a few months prior and started a new job as a Technical Account Manager for an enterprise automation software company so I really was able to enhance my knowledge and skills. I already had some experience using C++, Java and Python but gained so much from this program. I enhanced my knowledge of security and coding best practices and used some of it in my work to great effect. Work and school have had a mutually beneficial relationship for me. Now, I use experience I gain from my current job to augment my work for the CS program. I have also learned the SDLC and how to better communicate with clients and sytakeholders. Using all of this new knowledge I have been able to make strong enhancements to artifacts I have created in my time here. The artifacts I selected represent the categories mentioned on this page and all build on each other.
 
+**Reflections:**
+[![View Artifact 1](https://img.shields.io/badge/View_Artifact_1-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)
+[![View Artifact 1](https://img.shields.io/badge/View_Artifact_1-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)
+[![View Artifact 1](https://img.shields.io/badge/View_Artifact_1-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)
+[![View Artifact 1](https://img.shields.io/badge/View_Artifact_1-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)
+[![View Artifact 1](https://img.shields.io/badge/View_Artifact_1-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)
+[![View Artifact 1](https://img.shields.io/badge/View_Artifact_1-blue?style=for-the-badge&logo=github)](https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Artifact%201/Appointment)
+
 # Code Review ``</>`` 💻
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 20px;">
