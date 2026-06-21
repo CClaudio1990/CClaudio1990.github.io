@@ -2,6 +2,12 @@
 
 <h2 align="center">Welcome to my ePortfolio!</h2>
 
+<p align="center">
+  <a href="https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Originals">
+    <img src="https://img.shields.io/badge/Code_Review-99E858?style=for-the-badge&logo=github" alt="Original Artifacts">
+  </a>
+</p>
+
 # Introduction
 My name is Christian Claudio and I am a former U.S. Army Infantryman currently working as a Technical Consultant for a major open source software company. I started my journey at SNHU in January 2024 to finish my BS Computer Science after my 10 years of serving in the Army. I plan to keep moving along my current path post degree.
 
