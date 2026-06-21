@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/CClaudio1990/CClaudio1990.github.io/tree/main/Originals">
-    <img src="https://img.shields.io/badge/Code_Review-99E858?style=for-the-badge&logo=github" alt="Original Artifacts">
+    <img src="https://img.shields.io/badge/Original_Artifacts-99E858?style=for-the-badge&logo=github" alt="Original Artifacts">
   </a>
 </p>
 
